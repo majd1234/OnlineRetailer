@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[24]:
-
-
+# In[2
 import urllib.request
 import json
 from datetime import datetime, timedelta
