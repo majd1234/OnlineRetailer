@@ -3,7 +3,7 @@
 The code provides answers for three data science questions about time series forecasting and relations discovering for an online retailer as follows:    
 
 
-1- time series forecasting based on  ARIMA Model in file 1) OnlineRetailer_weekly_sales_prediction.ipynb,
+1- Time series forecasting based on ARIMA Model in file 1) OnlineRetailer_weekly_sales_prediction.ipynb,
 
 2- Decision Tree model in file 2) OnlineRetailer_estimating_for_customer.ipynb,
 
