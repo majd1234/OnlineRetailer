@@ -9,4 +9,4 @@ The code provides answers for three data science questions about time series for
 
 3- Association rule learning in file 3) OnlineRetailer_basket_analysis.ipynb.
 
-the dataset is available under the like: https://www.kaggle.com/mashlyn/online-retail-iiuci
+The dataset is available under the like: https://www.kaggle.com/mashlyn/online-retail-iiuci
